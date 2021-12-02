@@ -1,0 +1,11 @@
+2021/12/02
+Some tiny UI correction.
+Add installation script for Android.
+
+2021/11/30
+Fix for __libc_start_main@@GLIBC_2.34
+Fix parameter "-c".
+
+2021/11/29
+Try fix rename() error on Android.
+Fix guest's permission settings.
