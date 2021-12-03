@@ -13,6 +13,7 @@ df8e38fabfa3e2a3565445090a51f745c1c0689e  webd-20211202-openwrt-aarch64_generic.
 9578f41baa744acbe9078447b651d3f853e1e18e  webd-20211202-openwrt-arm_cortex-a9.mvebu-cortexa9.tar.gz
 e6f0c4af508600e0977858d3414c8c7d06e4905d  webd-20211202-openwrt-arm_mpcore.oxnas.tar.gz
 3cdd34b21f3f0d4c79d5f922ab9ed046babc9cc0  webd-20211202-openwrt-arm_xscale.kirkwood.tar.gz
+1f8ae41a7bf5bbb08771372c2ca5f2061291e855  webd-20211202-openwrt-mips_24kc.ar71xx-uClibc.tar.gz
 3a51b682e978ed88d18df8af3a7646b385c3909c  webd-20211202-openwrt-mips_24kc.ath79.tar.gz
 0ee7613a0f8c21a8747283fd6cf3e6525a1ced02  webd-20211202-openwrt-mipsel_24kc.ramips-mt7620.tar.gz
 e32c5644c3deacc7d120bb49ee820ef78126402f  webd-20211202-openwrt-mipsel_74kc.brcm47xx-mips74k.tar.gz
