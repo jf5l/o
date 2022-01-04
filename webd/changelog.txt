@@ -1,3 +1,6 @@
+2022/01/05
+Fix upload error when file > 4G, 64bits versions not affected. Thanks for Mover.
+
 2021/12/02
 Some minor UI correction.
 Add installation script for Android.
