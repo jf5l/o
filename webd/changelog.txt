@@ -1,3 +1,6 @@
+2022/01/10
+Fix UI mess up when multiple files selected to upload at once.
+
 2022/01/05
 Fix upload error when file > 4G, 64bits versions not affected. Thanks for Mover.
 
