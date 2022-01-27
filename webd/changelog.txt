@@ -1,3 +1,6 @@
+2022/01/27
+Fix unexpected quit when upload file to jffs2 filesystem.
+
 2022/01/24
 Fix unexpected quit on windows.
 Add back web player, but not enabled by default.
