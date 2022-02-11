@@ -17,6 +17,7 @@ bcf5cc4adee9e3bb7722993f6328ce57db97be1d  webd-20220127-openwrt-arm_cortex-a9.mv
 d6eae0a72c0371c9b2cfee64ec14490483068098  webd-20220127-openwrt-mips_24kc.ath79.tar.gz
 459c1a8863d26e5259e9434ce43fecd3358d32af  webd-20220127-openwrt-mips_mips32.brcm63xx-uClibc.tar.gz
 bcffa400aa769170a7439973b34f95bb832c6945  webd-20220127-openwrt-mipsel_24kc.ramips-mt7620.tar.gz
+60670c1307b268d6734273d7cd9cdcbfbd6b039e  webd-20220127-openwrt-mipsel_24kec.ramips-mt7620-uClibc.tar.gz
 eab9217b1b87473bb4b64dbf8017a03d7b7eca8f  webd-20220127-openwrt-mipsel_74kc.brcm47xx-mips74k.tar.gz
 7e837e8fe243b17f0e9c64286993d1ac9a2e4a36  webd-20220127-openwrt-x86-64.tar.gz
 8c0b55fc7c883f9c72731a34c436120229261dad  webd-20220127-win32.7z
