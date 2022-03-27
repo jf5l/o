@@ -1,3 +1,7 @@
+2022/03/27
+Fix a potential security problem.
+Add support for platform armv6.
+
 2022/01/27
 Fix unexpected quit when upload file to jffs2 filesystem.
 
