@@ -1,3 +1,6 @@
+2022/05/12
+Fix a issue when rename a file's name with question mark(?). 
+
 2022/03/27
 Fix a potential security problem.
 Add support for platform armv6.
