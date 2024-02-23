@@ -1,3 +1,6 @@
+2024/02/23
+Fix popup 127.0.0.1 instead of real ip in some situations. 
+
 2023/06/04
 Rename packages name with toolchains name.
 Fix some toolchain's misconfiguration, which lead to unusable binary.
